@@ -3,17 +3,29 @@
 ! Designed for PiHole DNS
 ! Blocklist is updated when matches are found which may not be in 1 day
 ! -------------------Block List Below--------------------
-! AdForm
 adfofm.net
-! Amazon Ads
 amazon-adsystem.com
-! Google Tag Manager
 googletagmanager.com
-! Double Verify
 doubleverify.com
-! DeepIntent
 deepintent.com
-! ID5 Sync Server / Serves Ad Virus Popups
 id5-sync.com
-! ID5 Domain / Servers Ad Virus Popups
 id5.com
+criteo.net
+demdex.net
+rezync.com
+rfihub.com
+rkdms.com
+socdm.com
+tapad.com
+turn.com
+1rx.io
+33across.com
+3lift.com
+adnxs.com
+contextweb.com
+doubleclick.net
+emxdgt.com
+gumgum.com
+ipredictive.com
+loopme.me
+media.net
