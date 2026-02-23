@@ -1,1 +1,19 @@
-
+[Tracker Blocker Pro]
+! Intenned for private users
+! Designed for PiHole DNS
+! Blocklist is updated when matches are found which may not be in 1 day
+! -------------------Block List Below--------------------
+! AdForm
+adfofm.net
+! Amazon Ads
+amazon-adsystem.com
+! Google Tag Manager
+googletagmanager.com
+! Double Verify
+doubleverify.com
+! DeepIntent
+deepintent.com
+! ID5 Sync Server / Serves Ad Virus Popups
+id5-sync.com
+! ID5 Domain / Servers Ad Virus Popups
+id5.com
